@@ -1,4 +1,4 @@
-# Gestion de proyectos - Perhaps Comapany
+# Gestión de proyectos - Perhaps Comapany
 
 - Proyecto creado en React Js.
 
